@@ -1,16 +1,17 @@
-import React from "react";
+
 import { motion } from "framer-motion";
 import projects from "../data/projects.json";
 import codeSamples from "../data/samples.json";
+import type { Variants, TargetAndTransition } from "framer-motion";
 
-const cardVariants = {
+const cardVariants: Variants = {
   hidden: { opacity: 0, y: 20 },
-  visible: (i) => ({
+  visible: (i: number): TargetAndTransition => ({
     opacity: 1,
     y: 0,
     transition: {
       delay: i * 0.1,
-      type: "spring",
+      type: "spring", // This is the key error — 'type' needs to be limited to accepted values
       stiffness: 50,
     },
   }),

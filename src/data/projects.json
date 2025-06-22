@@ -1,17 +1,7 @@
 [
   {
-    "title": "Project One",
-    "description": "A short description of what this project does.",
-    "link": "#"
-  },
-  {
-    "title": "Project Two",
-    "description": "Another cool project I worked on.",
-    "link": "#"
-  },
-  {
-    "title": "Project Three",
-    "description": "Built using React, Node.js, and Tailwind CSS.",
-    "link": "#"
+    "title": "ThriftVision",
+    "description": "Application to help users find Depop clothes using a reverse image search engine to provide example clothing images.",
+    "link": "https://thriftvision.ricciapps.com/"
   }
 ]

@@ -1,0 +1,12 @@
+[
+  {
+    "title": "React Hook Example",
+    "description": "A simple custom React hook for fetching data.",
+    "link": "https://github.com/yourusername/react-hook-example"
+  },
+  {
+    "title": "Node.js API Boilerplate",
+    "description": "Basic Node.js REST API template with Express.",
+    "link": "https://github.com/yourusername/node-api-boilerplate"
+  }
+]

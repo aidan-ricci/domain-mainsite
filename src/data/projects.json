@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Project One",
+    "description": "A short description of what this project does.",
+    "link": "#"
+  },
+  {
+    "title": "Project Two",
+    "description": "Another cool project I worked on.",
+    "link": "#"
+  },
+  {
+    "title": "Project Three",
+    "description": "Built using React, Node.js, and Tailwind CSS.",
+    "link": "#"
+  }
+]

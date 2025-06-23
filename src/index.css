@@ -3,11 +3,6 @@
 /* For class-based dark mode (@variant is correct here): */
 @variant dark (&:where(.dark, .dark *));
 
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
 
 html.dark {
   background-color: #111827; /* Tailwind's gray-900 */

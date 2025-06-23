@@ -21,6 +21,7 @@ export default function Navbar() {
           About
           <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-gradient-to-r from-indigo-400 to-purple-400 group-hover:w-full transition-all duration-300"></span>
         </Link>
+        {/*Resume*/}
       </div>
     </nav>
   );

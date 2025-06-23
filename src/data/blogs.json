@@ -1,0 +1,12 @@
+[
+  {
+    "title": "How to estimate Amazon Bedrock costs for public sector applications",
+    "description": "The blog outlines a comprehensive cost estimation framework for Amazon Bedrock, helping public sector agencies understand and forecast AI-related expenses. It breaks down costs across inference modes (on-demand, batch, provisioned), deployment options (serverless vs. SageMaker), prompt caching, model customization, and other Bedrock services—supporting transparent budgeting aligned with procurement and compliance requirements.",
+    "link": "https://aws.amazon.com/blogs/publicsector/how-to-estimate-amazon-bedrock-costs-for-public-sector-applications/"
+  },
+{
+    "title": "Create a SageMaker inference endpoint with custom model & extended container",
+    "description": "A blog explaining an end-to-end method for deploying custom ML models on Amazon SageMaker, by extending AWS Deep Learning Containers—demonstrated using NASA’s Prithvi temporal vision transformer with MMCV—showing how to package dependencies, artifacts, and inference code into a Docker image and deploy it as a real-time SageMaker endpoint",
+    "link": "https://aws.amazon.com/blogs/machine-learning/create-a-sagemaker-inference-endpoint-with-custom-model-extended-container/"
+  }
+]

@@ -1,32 +1,27 @@
 [
   {
     "title": "Amazon Bedrock Agents conversation tester",
-    "description": "A simple custom React hook for fetching data.",
+    "description": "A code sample that displays an example of how to test Bedrock Agents iteratively through full conversation chains",
     "link": "https://github.com/aws-samples/amazon-bedrock-samples/tree/main/agents-and-function-calling/bedrock-agents/test-agent"
   },
   {
     "title": "Amazon Bedrock Agents with Bedrock Guardrails",
-    "description": "Basic Node.js REST API template with Express.",
+    "description": "Jupyter notebook that shows how to integrate Bedrock Agents with Bedrock Guardrails",
     "link": "https://github.com/aws-samples/amazon-bedrock-samples/tree/main/agents-and-function-calling/bedrock-agents/features-examples/08-create-agent-with-guardrails"
   },
     {
     "title": "Amazon Bedrock Agents custom orchestration",
-    "description": "A simple custom React hook for fetching data.",
+    "description": "A code sample that displays how to create a custom orchestration method for Bedrock Agents. It converts Agents from ReAct to the Rewoo orchestration method",
     "link": "https://github.com/aws-samples/amazon-bedrock-samples/tree/main/agents-and-function-calling/bedrock-agents/features-examples/14-create-agent-with-custom-orchestration"
   },
   {
     "title": "Bedrock Agents not yet optimized models with multi-agent collaboration",
-    "description": "Basic Node.js REST API template with Express.",
+    "description": "Code sample displaying how to use not yet optimized models (Llama 3.3 + Mistral Large) with Bedrock Agents multi-agents",
     "link": "https://github.com/awslabs/amazon-bedrock-agent-samples/tree/main/examples/multi_agent_collaboration/not_yet_optimized_models_agent"
   },
     {
     "title": "Bedrock Agents with models not yet optimized for Bedrock Agents",
-    "description": "A simple custom React hook for fetching data.",
+    "description": "Code sample displaying how to use not yet optimized models (Llama 3.3, Mistral Large, and Deepseek R1) with Bedrock Agents",
     "link": "https://github.com/awslabs/amazon-bedrock-agent-samples/tree/main/examples/agents/agent_with_models_not_yet_optimized_for_bedrock_agents"
-  },
-  {
-    "title": "Node.js API Boilerplate",
-    "description": "Basic Node.js REST API template with Express.",
-    "link": "https://github.com/aws-samples/amazon-bedrock-samples/tree/main/agents-and-function-calling/bedrock-agents/test-agent"
   }
 ]

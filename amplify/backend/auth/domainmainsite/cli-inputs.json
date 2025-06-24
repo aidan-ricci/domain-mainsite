@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "domainmainsite_identitypool_8fcc943c",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "domainmainsite",
+    "sharedId": "8fcc943c",
+    "serviceName": "Cognito",
+    "useDefault": "manual"
+  }
+}

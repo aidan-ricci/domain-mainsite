@@ -3,5 +3,10 @@
     "title": "ThriftVision",
     "description": "Application to help users find Depop clothes using a reverse image search engine to provide example clothing images.",
     "link": "https://thriftvision.ricciapps.com/"
+  },
+  {
+    "title": "Coming Soon",
+    "description": "...",
+    "link": "https://portfolio.ricciapps.com/"
   }
 ]

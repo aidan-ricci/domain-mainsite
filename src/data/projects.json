@@ -1,12 +1,17 @@
 [
   {
-    "title": "ThriftVision",
-    "description": "Application to help users find Depop clothes using a reverse image search engine to provide example clothing images.",
-    "link": "https://thriftvision.ricciapps.com/"
+    "title": "PairWith",
+    "description": "Connect with complementary brands and share customers through simple, trust-based partnerships for e-commerce businesses.",
+    "link": "https://pairwith.ricciapps.com/"
   },
   {
     "title": "Automatic Recipe Adaptation Extension",
     "description": "Automatically adapts recipes you find online to fit your dietary and medical needs.",
     "link": "https://chromewebstore.google.com/detail/pioagjmbjdhebcnimglgiemfkobcfilj?utm_source=item-share-cb"
+  },
+  {
+    "title": "ThriftVision",
+    "description": "Application to help users find Depop clothes using a reverse image search engine to provide example clothing images.",
+    "link": "https://thriftvision.ricciapps.com/"
   }
 ]

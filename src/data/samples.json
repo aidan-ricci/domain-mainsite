@@ -9,7 +9,7 @@
     "description": "Jupyter notebook that shows how to integrate Bedrock Agents with Bedrock Guardrails",
     "link": "https://github.com/aws-samples/amazon-bedrock-samples/tree/main/agents-and-function-calling/bedrock-agents/features-examples/08-create-agent-with-guardrails"
   },
-    {
+  {
     "title": "Amazon Bedrock Agents custom orchestration",
     "description": "A code sample that displays how to create a custom orchestration method for Bedrock Agents. It converts Agents from ReAct to the Rewoo orchestration method",
     "link": "https://github.com/aws-samples/amazon-bedrock-samples/tree/main/agents-and-function-calling/bedrock-agents/features-examples/14-create-agent-with-custom-orchestration"
@@ -19,9 +19,14 @@
     "description": "Code sample displaying how to use not yet optimized models (Llama 3.3 + Mistral Large) with Bedrock Agents multi-agents",
     "link": "https://github.com/awslabs/amazon-bedrock-agent-samples/tree/main/examples/multi_agent_collaboration/not_yet_optimized_models_agent"
   },
-    {
+  {
     "title": "Bedrock Agents with models not yet optimized for Bedrock Agents",
     "description": "Code sample displaying how to use not yet optimized models (Llama 3.3, Mistral Large, and Deepseek R1) with Bedrock Agents",
     "link": "https://github.com/awslabs/amazon-bedrock-agent-samples/tree/main/examples/agents/agent_with_models_not_yet_optimized_for_bedrock_agents"
+  },
+  {
+    "title": "Gen AI Conversation Simulator",
+    "description": "The Gen AI Conversation Simulator is a versatile tool that leverages Amazon Bedrock and Polly to create interactive, voice-enabled conversation simulations. It serves as a practical starting point for developers looking to implement AI-driven dialogue systems for various applications, including call center training, interview preparation, and employee onboarding. By providing a working example of how to integrate AWS services for natural conversational interactions, this solution helps developers quickly build and customize their own conversation-based applications.",
+    "link": "https://github.com/aws-samples/sample-conversation-simulator-gen-ai"
   }
 ]

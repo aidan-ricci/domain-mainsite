@@ -1,8 +1,8 @@
 [
   {
-    "title": "PairWith",
+    "title": "PairsWith",
     "description": "Connect with complementary brands and share customers through simple, trust-based partnerships for e-commerce businesses.",
-    "link": "https://pairwith.ricciapps.com/"
+    "link": "https://pairswith.ricciapps.com/"
   },
   {
     "title": "Automatic Recipe Adaptation Extension",
@@ -13,5 +13,10 @@
     "title": "ThriftVision (Under Maintenance)",
     "description": "Application to help users find Depop clothes using a reverse image search engine to provide example clothing images.",
     "link": "https://thriftvision.ricciapps.com/"
+  },
+  {
+    "title": "Conversation Simulator Sample",
+    "description": "The Gen AI Conversation Simulator is a versatile tool that leverages Amazon Bedrock and Polly to create interactive, voice-enabled conversation simulations. It serves as a practical starting point for developers looking to implement AI-driven dialogue systems for various applications, including call center training, interview preparation, and employee onboarding. By providing a working example of how to integrate AWS services for natural conversational interactions, this solution helps developers quickly build and customize their own conversation-based applications.",
+    "link": "https://d2d1t5b8elj5vj.cloudfront.net/"
   }
 ]

@@ -10,13 +10,13 @@
     "link": "https://chromewebstore.google.com/detail/pioagjmbjdhebcnimglgiemfkobcfilj?utm_source=item-share-cb"
   },
   {
-    "title": "ThriftVision (Under Maintenance)",
+    "title": "ThriftVision (Demo)",
     "description": "Application to help users find Depop clothes using a reverse image search engine to provide example clothing images.",
     "link": "https://thriftvision.ricciapps.com/"
   },
   {
     "title": "Conversation Simulator Sample",
-    "description": "The Gen AI Conversation Simulator is a versatile tool that leverages Amazon Bedrock and Polly to create interactive, voice-enabled conversation simulations. It serves as a practical starting point for developers looking to implement AI-driven dialogue systems for various applications, including call center training, interview preparation, and employee onboarding. By providing a working example of how to integrate AWS services for natural conversational interactions, this solution helps developers quickly build and customize their own conversation-based applications.",
+    "description": "The Gen AI Conversation Simulator is site that uses Amazon Bedrock and Polly to create interactive, voice-enabled conversation simulations.",
     "link": "https://d2d1t5b8elj5vj.cloudfront.net/"
   }
 ]

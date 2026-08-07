@@ -9,8 +9,13 @@
     "description": "Automatically adapts recipes you find online to fit your dietary and medical needs.",
     "link": "https://chromewebstore.google.com/detail/pioagjmbjdhebcnimglgiemfkobcfilj?utm_source=item-share-cb"
   },
+    {
+    "title": "Google Calendar Plugin - Find Open Calendar Time",
+    "description": "A Google Workspace add-on for Google Calendar. Open it from any calendar event and it checks the free/busy availability of the guests already added to that event, then suggests open times that work for the whole group — right inside Calendar's side panel.",
+    "link": "https://workspace.google.com/marketplace/app/planameeting/266704356475"
+  },
   {
-    "title": "ThriftVision (Demo)",
+    "title": "ThriftVision (Demo Broken Currently)",
     "description": "Application to help users find Depop clothes using a reverse image search engine to provide example clothing images.",
     "link": "https://thriftvision.ricciapps.com/"
   }

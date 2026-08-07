@@ -63,7 +63,7 @@ export default function About() {
               </h2>
               <div className="space-y-4 text-gray-300 text-base sm:text-lg leading-relaxed">
                 <p>
-                  Aidan is a solutions architect in the AWS Public Sector division working with U.S. federal government health agencies. With deep expertise in AWS artificial intelligence and machine learning (AI/ML) services, he helps organizations transform their operations through cloud-based innovation. Aidan focuses on developing technical architectures and proof-of-concept demonstrations that bridge traditional IT systems with cutting-edge AI capabilities so customers can enhance their service delivery and operational efficiency.
+                  Aidan is a solutions architect at Databricks working with U.S. Autos Manufacturers, focusing on building large scale and cost effective big data and AI solutions. Previously, he worked with the AWS Public Sector division working with U.S. federal government health agencies. With deep expertise in AWS artificial intelligence and machine learning (AI/ML) services, he helps organizations transform their operations through cloud-based innovation. Aidan focuses on developing technical architectures and proof-of-concept demonstrations that bridge traditional IT systems with cutting-edge AI capabilities so customers can enhance their service delivery and operational efficiency.
                 </p>
                 <p>
                   When I'm not working, you'll find me coding side projects, cooking, or lifting.
@@ -76,7 +76,7 @@ export default function About() {
                   Technologies I Work With
                 </h3>
                 <div className="flex flex-wrap gap-2">
-                  {['React', 'JavaScript', 'TypeScript', 'Node.js', 'Python', 'C++', 'MongoDB','PostgreSQL', 'Pinecone', 'AWS', 'Docker', 'Agentic AI', 'DevOps', 'ML Finetuning'].map((skill) => (
+                  {['React', 'JavaScript', 'TypeScript', 'Node.js', 'Python', 'C++', 'MongoDB','PostgreSQL', 'Pinecone', 'AWS','Databricks', 'Docker', 'Agentic AI', 'DevOps', 'ML Finetuning', 'Claude Code'].map((skill) => (
                     <span
                       key={skill}
                       className="px-3 py-1 text-sm bg-gray-800 text-purple-300 rounded-full border border-purple-500 border-opacity-30"
